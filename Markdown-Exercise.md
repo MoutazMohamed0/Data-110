@@ -54,7 +54,7 @@ def hello_world():
 
 ### Task List
 - [x] Wake Up
-- [x] Do this assignment
+- [x] Do This Assignment
 - [ ] Sleep
 
 ### Footnotes
