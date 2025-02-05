@@ -46,11 +46,11 @@ def hello_world():
 ```
 
 ### Tables
-|Location|Is it a top 5 Vacation Destinations?|
-|-------------------|-------------------------|
-|London             |Yes                      |
-|San Diego          |No                       |
-|Sydney             |No                       |
+|Location|Is it a top 5 Vacation Destination?|
+|-------------------|------------------------|
+|London             |Yes                     |
+|San Diego          |No                      |
+|Sydney             |No                      |
 
 ### Task List
 - [x] Wake Up
