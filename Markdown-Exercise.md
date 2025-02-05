@@ -31,7 +31,7 @@
 [A Walk Through Tokyo](https://www.youtube.com/watch?v=Ze42hH2GzHc "Tour Through Tokyo")
 
 ### Images
-![Real picture of Dylan](dylan.jpg)
+![Picture of London](dylan.jpg)
 
 ### Blockquotes
 > "A vacation is having nothing to do and all day to do it in."
